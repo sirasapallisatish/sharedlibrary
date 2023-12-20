@@ -1,4 +1,4 @@
-def gitDownload(repo)
-{
-   git "https://github.com/sirasapallisatish/${repo}.git"
-}
+def contDownload(repo)
+   {
+      git "https://github.com/sirasapallisatish/${repo}.git"
+   }
