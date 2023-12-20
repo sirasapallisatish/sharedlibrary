@@ -1,4 +1,4 @@
-def  continuousDownload(repo)
+def continuousDownload(repo)
 {
    git "https://github.com/sirasapallisatish/${repo}.git"
 }
