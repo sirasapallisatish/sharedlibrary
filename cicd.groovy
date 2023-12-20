@@ -1,4 +1,4 @@
 def  continuousDownload(repo)
 {
-   " git 'https://github.com/sirasapallisatish/${repo}"
+   git "https://github.com/sirasapallisatish/${repo}.git"
 }
