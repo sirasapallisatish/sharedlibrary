@@ -1,4 +1,4 @@
-def  cicd.continuousDownload(repo)
+def  continuousDownload(repo)
 {
-"git 'https://github.com/sirasapallisatish/${repo}.git"
+   " git 'https://github.com/sirasapallisatish/${repo}"
 }
