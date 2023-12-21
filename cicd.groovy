@@ -1,4 +1,4 @@
-def ConDownload(repo)
-     {
-           git "https://github.com/Madhavaraochalla/${repo}.git"
-     }
+def newDownload(repo)
+{
+     git "https://github.com/sirasapallisatish/${repo}.git"
+}
